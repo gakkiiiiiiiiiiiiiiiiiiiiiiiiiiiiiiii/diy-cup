@@ -20,9 +20,9 @@ import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader';
 import * as fabric from 'fabric';
 
 // 模型
-const modelUrl = '/static/cup_of_coffee_gltf/scene.gltf';
+const modelUrl = '/cup_of_coffee_gltf/scene.gltf';
 // 贴图
-const uvUrl = '/static/uv-2.png';
+const uvUrl = '/uv-2.png';
 
 //绘制区域大小
 const drawSize = {
